@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 // 1. Isotope JS plugin 을 이용한, `floated` elements 의 재배치 수행. (***)
 // 2. DOM이 모두 완성된 후에, 이 isotope plugin 이 요소들을 재배치 해야 함. <------- (***)
 
@@ -57,7 +56,6 @@ window.addEventListener('load', e => {
 
 
 
-=======
 // 1. Isotope JS plugin 을 이용한, `floated` elements 의 재배치 수행. (***)
 // 2. DOM이 모두 완성된 후에, 이 isotope plugin 이 요소들을 재배치 해야 함. <------- (***)
 
@@ -116,4 +114,3 @@ window.addEventListener('load', e => {
 
 
 
->>>>>>> origin/main
